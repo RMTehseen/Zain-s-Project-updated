@@ -1,0 +1,10 @@
+Expand wallet page to show deposit and withdrawal sections with recent history
+
+Update DepositWithdrawal.tsx to replace deposit and withdrawal cards with full-width sections, display them side-by-side on desktop and stacked on mobile, and include a mixed recent financial history feed below.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 17ae4a39-accc-42f4-a041-4fff444a0f8e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: bc36ac32-4394-4e6b-a62c-fbb4034cd7b9
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/7a1e4778-fc66-434f-ba7d-2bbbc682ea44/17ae4a39-accc-42f4-a041-4fff444a0f8e/BjdLPoX
+Replit-Helium-Checkpoint-Created: true

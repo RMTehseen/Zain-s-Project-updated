@@ -1,0 +1,60 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "gitsafe-backup"]
+	url = git://gitsafe:5418/backup.git
+	fetch = +refs/heads/*:refs/remotes/gitsafe-backup/*
+	skipFetchAll = true
+	lfsurl = http://gitsafe:5419
+[remote "origin"]
+	url = https://github.com/RMTehseen/Zain-s-Project
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[lfs]
+	repositoryformatversion = 0
+[lfs "http://gitsafe:5419"]
+	locksverify = false
+[remote "subrepl-v2bp7ff0"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-v2bp7ff0/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-kc2ohi92"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-kc2ohi92/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-k3jg1d28"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-k3jg1d28/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-96qhqyva"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-96qhqyva/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-q8drbshv"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-q8drbshv/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-puvtagv3"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-puvtagv3/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-a4v2epd1"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-a4v2epd1/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-2cci4ids"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-2cci4ids/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-8rzxeuxs"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-8rzxeuxs/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
+[remote "subrepl-4j1pquud"]
+	url = git+ssh://git@ssh.pike.replit.dev:/home/runner/workspace
+	fetch = +refs/heads/*:refs/remotes/subrepl-4j1pquud/*
+	lfsurl = ssh://git@ssh.pike.replit.dev/home/runner/workspace
